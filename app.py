@@ -1,0 +1,1 @@
+print("LifeTracker is live")
